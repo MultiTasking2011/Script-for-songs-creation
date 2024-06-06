@@ -28,4 +28,3 @@ Finally, there will be another input that specifies files not to edit and overla
 
 Actual code thats supposed to be there:
 First, each of the midi files will be converted into abc music notation files. The beginnings will be less intense, the beginnings mid will be slightly more intense, the prechorus will be slightly more intense as the beginnings mid and the chorus will be most intense. But, super chorus will be completely impossible to play. Chorus end will be as intense as prechorus. End will be as intense as beginning and end real will be very slow. each different type of track will be a different abc file. in the end, the files will be transformed into midi and get combined and overlapped into one output file. 
-.
