@@ -38,3 +38,4 @@ More advanced to code btw
 Enter treble cleff notes and make a script that checks for each note in treble cleff and the scale it's in, based on that it makes chords for bass cleff, it asks how many notes per chord, octave chords or regular chords and if you want to arpeggiate the chords, if yes in what count
 then it will make double octaves for treble notes, and duets for treble notes using the scals, it will mke bass notes every 4 counts and chords the rest of the 3 counts, and in the start it will ask the time signature and the tempo
 More covenient, easier and faster to use, full automation possible but extremely timetaking to code
+Add a feature where humming can be turned to midi, to make it more covenient rather than to record midi on producer thing and then input it into the thing
