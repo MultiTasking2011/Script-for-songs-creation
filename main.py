@@ -22,7 +22,7 @@ class scriptdetection():
     def createchords(self):
         pass
     
-    def arpeggiation(self):
+    def arpeggiationfunc(self):
         pass
     
     def doubleoctavetreble(self):
